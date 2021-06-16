@@ -19,5 +19,5 @@
 3. Cole em uma guia no seu navegador
 
 ###### - Pelo Vercel
-Acesse o link do Vercel: https://vercel.com/tckthecreator/facebook-clone
+Acesse o link do Vercel: https://facebook-clone-jet.vercel.app
 
