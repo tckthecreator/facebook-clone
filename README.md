@@ -18,6 +18,6 @@
 2. Clique com o botão direito no index.html e aperte em Copy Path
 3. Cole em uma guia no seu navegador
 
-###### - Pelo Vercel
+###### - Pelo Vercel - Recomendado
 Acesse o link do Vercel: https://facebook-clone-jet.vercel.app
 
