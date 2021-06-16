@@ -1,7 +1,7 @@
 # Facebook Clone
 
 ### Página Original -
-![sei la irmaozinho](https://imgur.com/gallery/bnBE8Sl "sei la irmaozinho")
+![sei la irmaozinho](https://i.imgur.com/SdOQcOe.png "sei la irmaozinho")
 
 ### Página Criada
 > Vou colocar ainda :)
