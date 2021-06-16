@@ -5,30 +5,34 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Facebook Clone</title>
+    <link rel="StyleSheet" href="css/normalize.css" >
+    <link rel="StyleSheet" href="css/style.css" >
+    <link rel="StyleSheet" href="css/fonts.css" >
 </head>
 <body>
-    <div>
-        <div>
-            <h2>Facebook</h2>
-            <p>O Facebook ajuda você a se conectar e compartilhar com as pessoas que fazem parte da sua vida.</p>
+    <div id="contentDiv">
+        <div id="logoContainer">
+            <h2 id="faceTitle">facebook</h2>
+            <p id="faceParagraph">O Facebook ajuda você a se conectar e <br/>compartilhar com as pessoas que<br/> fazem parte da sua vida.</p>
         </div>
         <div>
-            <div>
-                <div>
-                    <input type="email" placeholder="Email">
-                    <input type="password" placeholder="Senha">
+            <div id="mainContainer">
+                <div id="inputContainer">
+                    <input class="box input" type="email" placeholder="Email">
+                    <input class="box input" type="password" placeholder="Senha">
                 </div>
-                <div>
-                    <button>Entrar</button>
-                    <a href="/">Esqueceu a senha?</a>
+                <div id="buttonContainer">
+                    <button class="box button">Entrar</button>
+                    <a class="link forgotPass" href="/">Esqueceu a senha?</a>
                 </div>
-                <div>
-                    <button>Criar nova conta</button>
+                <div id="createAccountContainer">
+                    <button id="createAccountButton">Criar nova conta</button>
                 </div>
             </div>
-            <p><a href="/">Criar uma página</a> para uma celebridade, banda ou empresa.</p>
+            <p id="paragraph"><a class="link createPage" href="/">Criar uma página</a> para uma celebridade, banda ou empresa.</p>
         </div>
     </div>
+    
     <footer>
         <div>
 

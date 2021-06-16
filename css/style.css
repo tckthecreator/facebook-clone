@@ -1,0 +1,35 @@
+body {
+    background: #f0f2f5;
+    height: 100vh;
+    width: 100vw;
+}
+
+#contentDiv {
+    display: flex;
+    position: relative;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    top: 5%;
+    padding: 200px;
+}
+
+#faceTitle {
+    font-family: Helvetica;
+    color: #1877f2;
+    font-weight: 700;
+    font-size: 60px;   
+}
+
+#faceParagraph {
+    color: #1c1e21;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 26px;
+}
+
+
+@font-face {
+    font-family: "FrancaDEMO-Book";
+    src: url('webFonts/FrancaDEMOBook/font.woff2') format('woff2'), url('webFonts/FrancaDEMOBook/font.woff') format('woff');
+}
+
