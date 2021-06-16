@@ -12,7 +12,7 @@
 - JavaScript (Vanilla)
 
 ## Como acessar a página?
-##### Existe duas maneiras:
+#### Existem duas maneiras:
 ###### - Localmente:
 1. Acesse o terminal e execute: git clone https://github.com/tckthecreator/facebook-clone.git
 2. Clique com o botão direito no index.html e aperte em Copy Path
