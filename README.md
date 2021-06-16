@@ -3,7 +3,7 @@
 ### Página Original -
 ![sei la irmaozinho](https://i.imgur.com/SdOQcOe.png "sei la irmaozinho")
 
-### Página Criada
+### Página Criada -
 > Vou colocar ainda :)
 
 ## Tecnologias Usadas:
