@@ -11,27 +11,28 @@ body {
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    bottom: 75px;
+    bottom: 65px;
     padding: 200px;
-    gap: 120px;
+    gap: 110px;
 }
 
 #logoContainer {
     position: relative;
-    bottom: 10px;
+    bottom: 20px;
 }
 
 #faceTitle {
     font-family: Helvetica;
     color: #1877f2;
     font-weight: 700;
-    font-size: 60px;   
+    font-size: 60px;
+    margin-bottom: 5px;   
 }
 
 #faceParagraph {
     color: #1c1e21;
     font-family: Helvetica, Arial, sans-serif;
-    font-size: 26px;
+    font-size: 28px;
 }
 
 #mainContainer {
