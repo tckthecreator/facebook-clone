@@ -2,16 +2,23 @@ body {
     background: #f0f2f5;
     height: 100vh;
     width: 100vw;
+    font-family: Helvetica, sans-serif;
 }
 
 #contentDiv {
     display: flex;
     position: relative;
     flex-direction: row;
-    justify-content: space-evenly;
+    justify-content: center;
     align-items: center;
-    top: 5%;
+    bottom: 75px;
     padding: 200px;
+    gap: 120px;
+}
+
+#logoContainer {
+    position: relative;
+    bottom: 10px;
 }
 
 #faceTitle {
@@ -27,9 +34,89 @@ body {
     font-size: 26px;
 }
 
-
-@font-face {
-    font-family: "FrancaDEMO-Book";
-    src: url('webFonts/FrancaDEMOBook/font.woff2') format('woff2'), url('webFonts/FrancaDEMOBook/font.woff') format('woff');
+#mainContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    width: 410px;
+    height: 350px;
+    border: #e5e7e9 solid 1px;
+    border-radius: 10px;
+    margin-bottom: 25px;
 }
 
+#inputContainer {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 5px;
+}
+
+.box {
+    padding: 13px;
+    width: 350px;
+    margin: 7px;
+    border-radius: 10px;
+}
+
+.input {
+    border: #d9dbde 1px solid;
+    font-size: 16px;
+}
+
+.button {
+    color: #fff;
+    font-family: Helvetica;
+    font-weight: 700;
+    font-size: 20px;
+    background-color: #1877f2;
+    width: 375px;
+    border: #1877f2 1px solid;
+}
+
+#buttonContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.forgotPass {
+    font-size: 15px;
+    color: #1877f2;
+    margin: 15px 0;
+}
+
+#createAccountContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    border-top: #e5e7e9 1px solid;
+    width: 93%;
+}
+
+#createAccountButton {
+    padding: 15px 50px;
+    background-color: #42b72a;
+    color: #feffff;
+    font-weight: 700;
+    font-size: 16px;
+    border-radius: 10px;
+    border: #42b72a 1px solid;
+    margin-top: 10px;
+}
+
+#paragraph {
+    font-size: 14px;
+}
+
+.createPage {
+    color: #1c1e21;
+    font-weight: 600;
+}
