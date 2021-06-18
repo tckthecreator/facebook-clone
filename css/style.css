@@ -121,3 +121,26 @@ body {
     color: #1c1e21;
     font-weight: 600;
 }
+
+.input:focus {
+    outline: none !important;
+    border: #1877f2 1px solid;
+}
+
+.button:hover {
+    background-color: #166fe5;
+    cursor: pointer;
+}
+
+.forgotPass:hover {
+    text-decoration: underline;
+}
+
+#createAccountButton:hover {
+    background-color: #36a420;
+    cursor: pointer;
+}
+
+.createPage:hover {
+    text-decoration: underline;
+}
