@@ -9,7 +9,6 @@
 ## Tecnologias Usadas:
 - Html5
 - CSS3
-- JavaScript (Vanilla)
 
 ## Como acessar a página?
 #### Existem duas maneiras:
