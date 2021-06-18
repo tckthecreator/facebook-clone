@@ -4,7 +4,7 @@
 ![Página Original](https://i.imgur.com/SdOQcOe.png "Página Original")
 
 ### Página Criada -
-![Página Criada](https://imgur.com/gallery/Oq4FQh6 "Página Criada")
+![Página Criada](https://i.imgur.com/8vdjTTs.png "Página Criada")
 
 ## Tecnologias Usadas:
 - Html5
