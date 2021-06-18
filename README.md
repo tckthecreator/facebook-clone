@@ -1,10 +1,10 @@
 # Facebook Clone
 
 ### Página Original -
-![sei la irmaozinho](https://i.imgur.com/SdOQcOe.png "sei la irmaozinho")
+![Página Original](https://i.imgur.com/SdOQcOe.png "Página Original")
 
 ### Página Criada -
-> Vou colocar ainda :)
+![Página Criada](https://imgur.com/gallery/Oq4FQh6 "Página Criada")
 
 ## Tecnologias Usadas:
 - Html5
