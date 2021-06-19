@@ -1,0 +1,13 @@
+@media (max-width: 820px) {
+    #contentDiv {
+        flex-direction: column;
+        gap: 30px;
+    }
+}
+
+@media (max-width: 420px) {
+    #paragraph {
+        font-size: 12px;
+        padding-left: 15px; ;
+    }
+}
